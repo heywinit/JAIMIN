@@ -30,14 +30,14 @@ JAIMIN is a Python-based AI system that takes **LaTeX code** as input and genera
 ## **Installation**  
 
 1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/heywinit/JAIMIN.git
-   cd JAIMIN
-   ```
+```bash
+git clone https://github.com/heywinit/JAIMIN.git
+cd JAIMIN
+```
 2. Install Dependencies
-  ```
-  pip install -r requirments.txt
-  ```
+```
+pip install -r requirments.txt
+```
 3. Ensure LaTeX is Installed
   - Install LaTeX on your system. For example:
     - Windows: MiKTeX
@@ -50,15 +50,15 @@ JAIMIN is a Python-based AI system that takes **LaTeX code** as input and genera
 ## **Usage**  
 
 ### **Run the Script**  
-   ```bash
-   python jaimin.py
-   ```
+```bash
+python jaimin.py
+```
 ### Modify LaTeX Code
 
 - Replace the LaTeX code in the script with your desired expression. For example, in jaimin.py:
-  ```py
-  latex_code = r"E=mc^2 + \frac{a}{b}"
-  ```
+```py
+latex_code = r"E=mc^2 + \frac{a}{b}"
+```
 ### Output:
 - The generated image will be saved in the project directory as handwritten_output.png.
 
