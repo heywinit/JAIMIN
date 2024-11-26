@@ -1,9 +1,7 @@
 # **JAIMIN**  
 **Just An Inference for Mathematics to Image Notations**  
 
-[![GitHub stars](https://img.shields.io/github/stars/heywinit/JAIMIN)](https://github.com/heywinit/JAIMIN/stargazers)  
-[![GitHub issues](https://img.shields.io/github/issues/heywinit/JAIMIN)](https://github.com/heywinit/JAIMIN/issues)  
-[![License](https://img.shields.io/github/license/heywinit/JAIMIN)](LICENSE)  
+[![GitHub stars](https://img.shields.io/github/stars/heywinit/JAIMIN)](https://github.com/heywinit/JAIMIN/stargazers)  [![GitHub issues](https://img.shields.io/github/issues/heywinit/JAIMIN)](https://github.com/heywinit/JAIMIN/issues) [![License](https://img.shields.io/github/license/heywinit/JAIMIN)](LICENSE)  
 
 JAIMIN is a Python-based AI system that takes **LaTeX code** as input and generates an **image** simulating **handwritten mathematics**, complete with natural irregularities and imperfections to mimic human handwriting.
 
