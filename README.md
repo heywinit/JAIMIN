@@ -1,5 +1,5 @@
 # **JAIMIN**  
-**Just Automated Inference for Mathematics to Image Notations**  
+**Just An Inference for Mathematics to Image Notations**  
 
 [![GitHub stars](https://img.shields.io/github/stars/heywinit/JAIMIN)](https://github.com/heywinit/JAIMIN/stargazers)  
 [![GitHub issues](https://img.shields.io/github/issues/heywinit/JAIMIN)](https://github.com/heywinit/JAIMIN/issues)  
